@@ -29,4 +29,4 @@ or `pytest -v --tb=line --browser_name=chrome`.
 - You will get test results report in the terminal after running the tests 
 - If your tests crash with the ElementNotInteractableException error, you can add the browser.maximize_window() command to the beginning of the tests, which sometimes helps to solve the crash problem.
 - In addition, if you still get tests with errors, then try to play with points. I have all the tests running and working)) and if you can put the maximum mark please:))
-- Коментарий от автора "У меня тесты все запускаются и работают:)) и если можно поставить максимальную оценку, пожалуйста:)) Будьте благосклонны."
+- Коментарий от автора "У меня тесты все запускаются и работают:)) и если можно поставьте максимальную оценку, пожалуйста:)) Будьте благосклонны."
